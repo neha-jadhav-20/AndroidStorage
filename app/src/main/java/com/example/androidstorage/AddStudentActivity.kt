@@ -7,7 +7,7 @@ import android.widget.EditText
 import android.widget.Toast
 
 data class Student(val id: Int, var name : String, val marks: Int)
-
+//welcome to github
 class AddStudentActivity : AppCompatActivity() {
     lateinit var idEditText: EditText
     lateinit var nameEditText: EditText
